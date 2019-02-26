@@ -1,6 +1,6 @@
 body{
 	margin: 0px;
-	background-image: url("img/obama.jpg");
+	background: url("img/obama.jpg");
 }
 div{
 	position: absolute;
