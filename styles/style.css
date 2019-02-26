@@ -1,0 +1,10 @@
+body{
+	background: url("img/obama.jpg");
+}
+div{
+	position: absolute;
+	left: 47%;
+	width: 500px;
+	height: 300px;
+	bottom: 2%;
+}
