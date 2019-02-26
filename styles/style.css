@@ -1,5 +1,5 @@
 body{
-	background: url(img/obama.jpg);
+	background-image: url(img/obama.jpg);
 }
 div{
 	position: absolute;
